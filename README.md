@@ -3,7 +3,7 @@ Zyxel VMG8324-B10A Keygen
 
 Default ESSID is ZyxelXXXXXX
 
-Usage: 
+Usage: \
 python3 vmg8324.py S160Y34049514 (short password version) \
 python3 vmg8324.py S140Y14001529 -l (long password version)
 
