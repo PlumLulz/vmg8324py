@@ -56,7 +56,7 @@ def vmg8324(serial, lng):
 	print(key)
 
 
-parser = argparse.ArgumentParser(description='Zyxel VMG1312-B30B Keygen')
+parser = argparse.ArgumentParser(description='Zyxel VMG8324-B10A Keygen (long and short)')
 parser.add_argument('serial', help='Serial Number')
 parser.add_argument("-long", help='Generates the long version of the password. Without this flag the script generates the short version.', required=False, action='store_true')
 args = parser.parse_args()
